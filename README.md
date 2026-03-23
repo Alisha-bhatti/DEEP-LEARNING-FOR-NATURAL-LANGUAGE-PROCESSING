@@ -4,3 +4,6 @@
 
 2.Train CBOW and Skip-Gram Word2Vec models on a sample text corpus, compute word similarities and analogies, and compare the performance of both models.
 
+3.Load pretrained GloVe or Word2Vec embeddings, select word groups belonging to different semantic categories, reduce dimensionality using PCA or t-SNE, and visualize the embeddings to interpret clusters and relationships
+
+
