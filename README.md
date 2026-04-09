@@ -6,4 +6,7 @@
 
 3.Load pretrained GloVe or Word2Vec embeddings, select word groups belonging to different semantic categories, reduce dimensionality using PCA or t-SNE, and visualize the embeddings to interpret clusters and relationships
 
+4.Build a sentiment analysis model using an LSTM network on a dataset such as the IMDB movie reviews or SMS Spam dataset. Compare its performance with a baseline model that uses Bag-of-Words or TF-IDF features
+
+
 
